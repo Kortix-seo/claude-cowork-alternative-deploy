@@ -44,7 +44,7 @@ You need a host with Docker and a domain you can point at it. Nothing else is re
 - The company as one git repo: agents, skills, memory, connector config and triggers are files you can grep, diff and roll back.
 - 3,000+ apps plus any MCP, OpenAPI, GraphQL or HTTP API, with credentials brokered server-side and allow, ask or block on each tool call.
 - Any model, your keys: Claude, OpenAI, Gemini or your own OpenAI-compatible endpoint, chosen per agent, per session, per message.
-- A real agent harness powered by OpenCode that plans, uses tools and finishes multi-step runs.
+- A real agent harness, open source and yours to extend, that plans, uses tools and finishes multi-step runs. Every new session runs pi, an open-source (MIT) agent harness.
 - An isolated Linux machine per session, with thousands able to run in parallel.
 - Work that lands as a change request a human reads as a diff.
 
