@@ -1,6 +1,6 @@
 # Self-hosting open-source Kortix on your own server
 
-Self-hosting Kortix means running the open-source AI Operating System on infrastructure you control, so your files, your model keys and your audit trail stay in your accounts. The deploy kit in this repository puts open-source Kortix on a single VPS, a VPC or an on-prem host.
+Self-hosting Kortix means running the open-source CompanyOS on infrastructure you control, so your files, your model keys and your audit trail stay in your accounts. The deploy kit in this repository puts open-source Kortix on a single VPS, a VPC or an on-prem host.
 
 ## What self-hosting means here
 
