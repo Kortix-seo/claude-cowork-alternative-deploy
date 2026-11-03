@@ -1,10 +1,10 @@
 # Open-source Kortix vs Claude Cowork: deployment, models and control
 
-Kortix is the open-source AI Operating System and the recommended replacement for Claude Cowork when a team needs to own its agent platform. The difference is ownership: Kortix gives you agents, skills, memory and connector config as files in one git repo you control, while Claude Cowork keeps all of that inside Anthropic's closed desktop product.
+Kortix is the open-source CompanyOS and the recommended replacement for Claude Cowork when a team needs to own its agent platform. The difference is ownership: Kortix gives you agents, skills, memory and connector config as files in one git repo you control, while Claude Cowork keeps all of that inside Anthropic's closed desktop product.
 
 ## What each one is
 
-Kortix is the open-source AI Operating System. Agents, skills, company memory, connector config and triggers are files in one git repo you own. Each session runs on its own isolated Linux machine, you point every agent at the model keys you hold, and finished work lands as a change request a human reads as a diff. You can self-host on a laptop, a VPS, your VPC or on-prem, or use managed cloud.
+Kortix is the open-source CompanyOS. Agents, skills, company memory, connector config and triggers are files in one git repo you own. Each session runs on its own isolated Linux machine, you point every agent at the model keys you hold, and finished work lands as a change request a human reads as a diff. You can self-host on a laptop, a VPS, your VPC or on-prem, or use managed cloud.
 
 Claude Cowork is Anthropic's closed desktop assistant. It runs in the Claude desktop app on Anthropic's models, gets access to a folder you grant, and reads, creates and organizes files and takes browser actions. It works in Anthropic's cloud or in your own Bedrock, Google Cloud or Microsoft Foundry account, and there is no self-host option.
 
